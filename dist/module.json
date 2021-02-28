@@ -2,7 +2,7 @@
 	"name": "healthEstimate2",
 	"title": "Health Estimate (BW Support)",
 	"description": "Gives players ability to see approximate health status of a token",
-	"version": "2.4.0",
+	"version": "2.4.1",
 	"author": "Shylight/Quileggen",
 	"scripts": [
 		"./lib/chroma.min.js",
@@ -74,7 +74,8 @@
 		"dnd5e",
 		"blades-in-the-dark",
 		"foundryvtt-reve-de-dragon",
-		"uesrpg-d100"
+		"uesrpg-d100",
+		"brokenworlds"
 	],
 	"minimumCoreVersion": "0.5.0",
 	"compatibleCoreVersion": "0.7.7",
