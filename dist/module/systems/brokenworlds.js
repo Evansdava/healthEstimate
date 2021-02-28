@@ -1,6 +1,6 @@
 const fraction = function (token) {
-	const hp = token.actor.data.data.attributes.hp
-	return Math.min(hp.value / hp.max, 1)
+	const wounds = token.actor.data.data.attributes.wounds
+	return Math.min(wounds.value / wounds.max, 1)
 }
 
 export {fraction}
