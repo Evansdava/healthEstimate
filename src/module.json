@@ -1,6 +1,6 @@
 {
-	"name": "healthEstimate",
-	"title": "Health Estimate",
+	"name": "healthEstimate2",
+	"title": "Health Estimate (BW Support)",
 	"description": "Gives players ability to see approximate health status of a token",
 	"version": "2.4.0",
 	"author": "Shylight/Quileggen",
@@ -79,8 +79,8 @@
 	],
 	"minimumCoreVersion": "0.5.0",
 	"compatibleCoreVersion": "0.7.7",
-	"url": "https://github.com/Shylight/healthEstimate",
-	"manifest": "https://raw.githubusercontent.com/Shylight/healthEstimate/master/src/module.json",
-	"download": "https://github.com/Shylight/healthEstimate/releases/download/2.4.0/healthEstimate-v2.4.0.zip",
+	"url": "https://github.com/Evansdava/healthEstimate",
+	"manifest": "https://raw.githubusercontent.com/Evansdava/healthEstimate/master/src/module.json",
+	"download": "https://github.com/Evansdava/healthEstimate/releases/download/2.4.0/healthEstimate-v2.4.0.zip",
 	"license": "https://choosealicense.com/licenses/mit/"
 }
