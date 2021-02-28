@@ -3,7 +3,7 @@
 	"title": "Health Estimate",
 	"description": "Gives players ability to see approximate health status of a token",
 	"version": "2.4.0",
-	"author": "Shylight",
+	"author": "Shylight/Quileggen",
 	"scripts": [
 		"./lib/chroma.min.js",
 		"./lib/color-picker.min.js",
