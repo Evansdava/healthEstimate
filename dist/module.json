@@ -80,6 +80,6 @@
 	"compatibleCoreVersion": "0.7.7",
 	"url": "https://github.com/Evansdava/healthEstimate",
 	"manifest": "https://raw.githubusercontent.com/Evansdava/healthEstimate/master/src/module.json",
-	"download": "https://github.com/Evansdava/healthEstimate/releases/download/2.4.1/healthEstimate2.zip",
+	"download": "https://github.com/Evansdava/healthEstimate/archive/v2.4.1.zip",
 	"license": "https://choosealicense.com/licenses/mit/"
 }
